@@ -1,0 +1,1 @@
+kaggle datasets download -d plameneduardo/sarscov2-ctscan-dataset
